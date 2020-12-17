@@ -36,7 +36,7 @@
 
      > 3) 귀가 후 : 사용자의 본인 인증 후 지정한 보호자 및 상황실에 안전하게 귀가가 완료되었음을 알림. 
      
-![look](cctv_map.png)
+![look](images/cctv_map.png)
 
 
 
